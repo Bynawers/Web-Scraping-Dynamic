@@ -1,0 +1,32 @@
+[
+    {
+        "name": "achat-vin-rouge",
+        "page": 90
+    },
+    {
+        "name": "achat-vin-blanc",
+        "page": 44
+    },
+    {
+        "name": "achat-vin-rose",
+        "page": 11
+    },
+
+    {
+        "name": "achat-champagne",
+        "page": 15
+    },
+    {
+        "name": "achat-vin-effervescent",
+        "page": 3
+    },
+
+    {
+        "name": "grands-vins",
+        "page": 15
+    },
+    {
+        "name": "achat-spiritueux",
+        "page": 26
+    }
+]

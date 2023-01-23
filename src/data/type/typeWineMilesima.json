@@ -1,0 +1,17 @@
+[
+    {
+        "type": "rouge",
+        "name": "couleur:8",
+        "page": 127
+    },
+    {
+        "type": "blanc",
+        "name": "couleur:5",
+        "page": 58
+    },
+    {
+        "type": "rose",
+        "name": "couleur:2",
+        "page": 5
+    }
+]
